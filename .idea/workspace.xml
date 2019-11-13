@@ -112,8 +112,16 @@
   <component name="ProjectId" id="1T9URsXvUVPQ0mlzMN5xlsKazMP" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/js/components" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHP\code\JanBreaking\learnJapanese.git\trunk\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHP\code\JanBreaking\learnJapanese.git\trunk\resources\js\components" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,7 +157,7 @@
       <workItem from="1573572785270" duration="166000" />
       <workItem from="1573573077174" duration="1779000" />
       <workItem from="1573641344279" duration="1961000" />
-      <workItem from="1573652126374" duration="2283000" />
+      <workItem from="1573652126374" duration="4007000" />
     </task>
     <servers />
   </component>
